@@ -1,0 +1,17 @@
+Frequencies  
+main$TP_ST_CONCLUSAO  
+Type: Numeric  
+
+               Freq   % Valid   % Valid Cum.   % Total   % Total Cum.
+----------- ------- --------- -------------- --------- --------------
+          1    6524     47.52          47.52     47.52          47.52
+          2    4283     31.19          78.71     31.19          78.71
+          3    2306     16.80          95.51     16.80          95.51
+          4     617      4.49         100.00      4.49         100.00
+       <NA>       0                               0.00         100.00
+      Total   13730    100.00         100.00    100.00         100.00
+
+1 --> Já concluí o Ensino Médio
+2 --> Estou cursando e concluirei o Ensino Médio em 2016
+3 --> Estou cursando e concluirei o Ensino Médio após 2016
+4 --> Não concluí e não estou cursando o Ensino Médio

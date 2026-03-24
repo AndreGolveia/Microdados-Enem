@@ -1,0 +1,12 @@
+               Freq  % Valido  % Valido Cum.   % Total   % Total Cum.
+----------- ------- --------- -------------- --------- --------------
+          1    3886     90.75          90.75     28.30          28.30
+          2      26      0.61          91.36      0.19          28.49
+          3     370      8.64         100.00      2.69          31.19
+       <NA>    9448                              68.81         100.00
+      Total   13730    100.00         100.00    100.00         100.00
+
+
+1 -->	Ensino Regular
+2 -->	Educação Especial - Modalidade Substitutiva
+3 -->	Educação de Jovens e Adultos
